@@ -1,3 +1,9 @@
 https://dl.espressif.com/dl/package_esp32_index.json,
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Drivers -Chip Quadrado
+https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+
+Drivers -Chip Retangular
+https://sparks.gogo.co.nz/ch340.html
